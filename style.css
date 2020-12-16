@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(147, 163, 179);
+  font-family: "Trebuchet MS";
+  font-size: 10px;
+  padding: 75px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin-bottom: 30px;
+}
+
+.first {
+  color: black;
+  padding-bottom: 30px;
+}
+.second {
+  padding-bottom: 10px;
+}
+
+#your-name {
+  background-color: rgb(247, 231, 165);
+  border: 5px dotted rgb(138, 91, 91);
+  width: 400px;
+  padding: 30px;
+  margin-top: 50px;
+}
+
+#food-image {
+  width: 640px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 16px;
+}
+
+a {
+  background-color: yellowgreen;
+}
+
+#your-name h2 {
+  color: olivedrab;
+}
